@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include <vector>
+
 using namespace std;
 
 class Solution {
@@ -30,4 +30,5 @@ int main()
 	Solution slt;
 	int result = slt.strStr(haystack, needle);
 	cout << result;
+
 }
