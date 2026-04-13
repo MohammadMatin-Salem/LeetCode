@@ -1,9 +1,9 @@
 #include <iostream>
 #include <string>
 
-using namespace std;
+//This commit and comment are using only for testig
 
-// This Solution uses one iterator
+using namespace std;
 
 class Solution {
 public:
